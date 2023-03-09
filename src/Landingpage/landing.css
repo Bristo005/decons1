@@ -1,0 +1,27 @@
+.heading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height:90vh;
+  }
+
+  .letsgo {
+    background-color:#0059A9;
+    border: 2px solid rgb(251, 251, 251);
+    border-radius: 15px;
+    color: rgb(244, 231, 231);
+    padding: 16px 24px;
+    text-align: center;
+    width: 100px;
+    height:50px;
+    align-self: center;
+  }
+  
+  .heading{
+    font-size: large
+  }
+  .heading p{
+    font-size: medium;
+  }
+
+  
